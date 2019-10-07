@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\brett\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Brett\\Documents\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\b4b519d708ba2cca0a2f8590acd844d7\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\e134581ad5dbe60738bbbe64774660d4\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

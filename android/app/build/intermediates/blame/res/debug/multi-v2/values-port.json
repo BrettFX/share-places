@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\brett\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\Brett\\Documents\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\b4b519d708ba2cca0a2f8590acd844d7\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\e134581ad5dbe60738bbbe64774660d4\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

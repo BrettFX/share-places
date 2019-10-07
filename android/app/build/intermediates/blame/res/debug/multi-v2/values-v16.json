@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\brett\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\Brett\\Documents\\GitHub\\ReactNative\\share-places\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\brett\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\d02d1258581c32b8da4a20703d8c7e20\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Brett\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\853dfa1e4f2c2f27a025de5c56966604\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\b4b519d708ba2cca0a2f8590acd844d7\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Brett\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\e134581ad5dbe60738bbbe64774660d4\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
